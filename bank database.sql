@@ -1,0 +1,1 @@
+SELECT * FROM bank_management_database.accounts;
